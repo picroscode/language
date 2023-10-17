@@ -841,7 +841,7 @@ return [
   'index.title' => 'Web Studio Picros',
   'index.meta_description' => 'Your domain website that showcases the charm of a growing brand, offering services like website creation, social media marketing, product sales, and even developing company apps.',
   'index.meta_keywords' => '',
-  'index.header' => 'Global Studio for <br />Brands to Grow',
+  'index.header' => 'Web Studio for <br />Brands to Grow',
   'index.subheader' => 'Your domain website that showcases the charm of a growing brand, offering services like website creation, social media marketing, product sales, and even developing company apps.',
   'index.sign_up' => 'Get Started',
   'index.example' => 'Page Demo',
